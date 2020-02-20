@@ -9,8 +9,8 @@ namespace MagePal\CheckoutSuccessMiscScript\Block\Adminhtml\System\Config\Form\F
 
 use Magento\Backend\Block\Template\Context;
 use Magento\Config\Block\System\Config\Form\Field\FieldArray\AbstractFieldArray;
-use Magento\Framework\View\Element\AbstractBlock;
 use Magento\Framework\Exception\LocalizedException;
+use Magento\Framework\View\Element\AbstractBlock;
 use MagePal\CheckoutSuccessMiscScript\Helper\Data;
 
 /**
